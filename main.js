@@ -1,2 +1,1 @@
-console.log("ass");
-alert("singup");
+alert("singUp")
